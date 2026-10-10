@@ -2,19 +2,8 @@
 
 
 
-Full Name: YOUR FULL NAME
+Full Name: Fatima Ashraf
 
 
 
-Registration Number: YOUR REGISTRATION NUMBER
-
-
-# Assignment01
-
-
-
-Full Name:Fatima ashraf
-
-
-
-Registration Number:FA24B1-SE-019
+Registration Number: FA24B1-SE-019
